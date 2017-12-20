@@ -1,7 +1,7 @@
-# Safe haven white papers
+# Safe haven's Documents
 
-
-## Available Languages
+## white papers
+### Available Languages
 
 ```
 Chinese
