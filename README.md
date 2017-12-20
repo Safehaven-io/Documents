@@ -20,5 +20,6 @@ Other Languages are availble on our [Wiki page](https://wiki.safehaven.io)
 
 * **Jürgen Schouppe** *
 * **Logino Dujardin** *
+* **Ivan Pauker** *
 * **Elise Kasiers** *
 * **Gregory Stabile** *
