@@ -24,3 +24,4 @@ Other Languages are availble on our [Wiki page](https://wiki.safehaven.io)
 * **Luke Yaldo** *
 * **Elise Kasiers** *
 * **Gregory Stabile** *
+* **Jimmy Schouppe** *
