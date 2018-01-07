@@ -1,4 +1,5 @@
 
+
 # Safe haven's Documents
 
 ## white papers
@@ -28,6 +29,7 @@ Other Languages are availble on our [Wiki page](https://wiki.safehaven.io)
 * **Jimmy Schouppe** *
 
 ## TAI : Token Architecture Implementation 
+
 ...
 Simplified representation
 Projections for 2018-2019-2020
