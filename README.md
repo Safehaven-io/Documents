@@ -29,5 +29,6 @@ Other Languages are availble on our [Wiki page](https://wiki.safehaven.io)
 
 ## TAI : Token Architecture Implementation 
 ...
-Simplified) projections for 2018-2019-2020
+Simplified representation
+Projections for 2018-2019-2020
 ...
