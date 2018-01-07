@@ -25,3 +25,5 @@ Other Languages are availble on our [Wiki page](https://wiki.safehaven.io)
 * **Elise Kasiers** *
 * **Gregory Stabile** *
 * **Jimmy Schouppe** *
+
+## TAI : Token Architecture Implementation (Simplified) projections for 2018-2019-2020
