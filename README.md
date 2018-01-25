@@ -36,3 +36,7 @@ Other Languages are availble on our [Wiki page](https://wiki.safehaven.io)
 ## TAI-OP : Token Architecture Implementation One pager
 
 * Simplified representation merged on one page
+
+## Safe Haven's Protection Plan's
+
+* Our services, other will follow...
