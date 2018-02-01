@@ -10,6 +10,7 @@ Chinese
 Japanese
 English
 Dutch
+Russian
 ```
 
 ### Other Languages
@@ -27,6 +28,7 @@ Other Languages are availble on our [Wiki page](https://wiki.safehaven.io)
 * **Elise Kasiers** *
 * **Gregory Stabile** *
 * **Jimmy Schouppe** *
+* **Alexey Bagrov** *
 
 ## TAI : Token Architecture Implementation 
 
