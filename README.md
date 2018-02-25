@@ -1,4 +1,4 @@
-[!(https://safehaven.io/img/logo_color.png)][Safe Haven](https://safehaven.io/)
+[![Safe Haven](https://safehaven.io/img/logo_color.png)](https://safehaven.io/)
 
 # Safe Haven's Documents
 
