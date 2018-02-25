@@ -1,8 +1,8 @@
-[![N|Solid](https://safehaven.io/img/logo_color.png)](https://safehaven.io/)
+[!(https://safehaven.io/img/logo_color.png)][Safe Haven](https://safehaven.io/)
 
-# Safe haven's Documents
+# Safe Haven's Documents
 
-## white papers
+## White papers
 ### Available Languages
 
 ```
