@@ -42,3 +42,7 @@ Other Languages are availble on our [Wiki page](https://wiki.safehaven.io)
 ## Safe Haven's Protection Plan's
 
 * Our services, other will follow...
+
+## 3 pagers
+
+* Safe Haven's 3-pager...
