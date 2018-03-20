@@ -1,6 +1,5 @@
 [![Safe Haven](https://safehaven.io/img/logo_color.png)](https://safehaven.io/)
 
-whitepaper & other usefull documentation
 
 # Safe Haven's Documents
 
